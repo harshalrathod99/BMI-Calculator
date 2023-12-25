@@ -1,0 +1,16 @@
+body{
+    background-color: #9BB8CD;
+}
+
+
+#weight-guide{
+    color: black;
+    text-shadow: 1px 1px white;
+    font-size: x-large;
+}
+
+#submit-button{
+    color: red;
+    border-radius: 30px;
+    font-size: xx-large;
+}
